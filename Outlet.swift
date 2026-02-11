@@ -1,6 +1,6 @@
 //
 //  Outlet.swift
-//  LabStreamingLayer
+//  SwiftLabStreamingLayerFramework
 //
 //  Created by Maximilian Kraus on 16.01.20.
 //  Copyright © 2020 Maximilian Kraus. All rights reserved.

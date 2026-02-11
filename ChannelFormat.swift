@@ -1,6 +1,6 @@
 //
 //  ChannelFormat.swift
-//  LabStreamingLayer
+//  SwiftLabStreamingLayerFramework
 //
 //  Created by Maximilian Kraus on 17.12.19.
 //  Copyright © 2019 Maximilian Kraus. All rights reserved.
